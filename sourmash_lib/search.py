@@ -7,7 +7,7 @@ from .logging import notify, error
 from .signature import SourmashSignature
 from .sbtmh import search_minhashes, search_minhashes_containment
 from .sbtmh import SearchMinHashesFindBest
-from ._minhash import get_max_hash_for_scaled
+from .minhash import get_max_hash_for_scaled
 
 
 
